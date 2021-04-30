@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TwoDicePig</string>
+
+    <string name="player1Total">Player 1 Total:</string>
+    <string name="player2Total">Player 2 Total:</string>
+    <string name="player1Score">0</string>
+    <string name="player2Score">0</string>
+    <string name="player">Current Player: P1</string>
+
+    <string name="turnTotal">Turn Total: 0</string>
+
+    <string name="diceBttn">Roll Dice</string>
+    <string name="holdBttn">Hold</string>
+</resources>
